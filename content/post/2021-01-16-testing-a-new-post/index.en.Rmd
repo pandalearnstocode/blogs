@@ -1,0 +1,23 @@
+---
+title: Testing a new post
+author: aritra
+date: '2021-01-16'
+slug: testing-a-new-post
+categories:
+  - blogdown
+tags:
+  - R Markdown
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-16T12:51:05+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+Test a new post
